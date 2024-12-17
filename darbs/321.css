@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    }
+.pirma-kaste {
+    width: 200px;
+    border: solid;
+    height: 200px;
+    background-color: purple;
+    padding: 20px;
+}
+
+ .videja-kaste{
+
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    left: 219px;
+    top: 50px;
+    border: solid;
+    margin-left: 240px;
+    background-color: red;
+
+}
+
+.apakseja-kaste {
+
+width: 200px;
+border: solid;
+height: 200px;
+margin: 0 440px;
+background-color: yellow;
+}
